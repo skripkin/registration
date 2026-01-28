@@ -1,0 +1,59 @@
+@import 'tailwindcss';
+
+:root {
+  --color-gray: #808080;
+  --color-gray-50: #f4f8f9;
+  --color-gray-dark: #252526;
+  --color-gray-light: #d9d9d9;
+
+  --color-blue-bright: #05c0e6;
+  --color-blue-light: #edfbfd;
+
+  --color-gray-text: #454545;
+}
+
+@theme {
+  --color-gray: var(--color-gray);
+  --color-gray-50: var(--color-gray-50);
+  --color-gray-dark: var(--color-gray-dark);
+  --color-gray-light: var(--color-gray-light);
+
+  --color-blue-bright: var(--color-blue-bright);
+  --color-blue-light: var(--color-blue-light);
+
+  --color-gray-text: var(--color-gray-text);
+}
+
+button,
+a,
+[role='button'],
+input[type='button'],
+input[type='submit'],
+label,
+[tabindex]:not([tabindex='-1']) {
+  cursor: pointer;
+}
+
+.selected-flag.open,
+.selected-flag:hover {
+  background: inherit !important;
+}
+
+.arrow {
+  display: none !important;
+}
+
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-down {
+  animation: slideDown 0.3s ease-out;
+}

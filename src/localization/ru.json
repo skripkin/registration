@@ -1,0 +1,81 @@
+{
+  "welcome": "Добро пожаловать в личный кабинет для бизнеса!",
+  "save": "Сохранить",
+  "login": {
+    "title": "Войдите в аккаунт",
+    "email": "Электронная почта",
+    "password": "Пароль",
+    "submit": "Войти",
+    "error": "Неверный email или пароль",
+    "loading": "Вход...",
+    "noAccount": "Нет аккаунта?",
+    "register": "Зарегистрируйтесь",
+    "emailInvalid": "Некорректный Email",
+    "passwordRequired": "Пароль обязателен",
+    "emailRequired": "Электронная почта обязательна"
+  },
+  "sidebar": {
+    "directories": "Управление",
+    "information": "Справочники",
+    "element1": "Элемент 1",
+    "element2": "Элемент 2",
+    "element3": "Элемент 3",
+    "managers": "Менеджеры"
+  },
+  "links": {
+    "issues": "Заявки",
+    "active": "Активные",
+    "archive": "Архивные",
+    "counterparties": "Контрагенты",
+    "customers": "Заказчики",
+    "transporters": "Перевозчики",
+    "fleet": "Автопарк"
+  },
+  "header": {
+    "profile": "Профиль",
+    "logout": "Выйти"
+  },
+  "profile": {
+    "edit": "Редактировать профиль",
+    "view": "Просмотр профиля"
+  },
+  "registration": {
+    "title": "Регистрация",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "patronymic": "Отчество",
+    "iin": "ИИН",
+    "password": "Пароль",
+    "email": "Электронная почта",
+    "phone": "Номер телефона",
+    "verifyCode": "Введите код из SMS",
+    "backToPhone": "Вернуться назад к номеру телефона",
+    "agreeWithTerms": "Я согласен с условиями использования",
+    "phoneSendedInfo": "Для входа в личный кабинет введите свой номер телефона, на него будет отправлено SMS с проверочным кодом",
+    "checkCodeForNumber": "Проверочный код был отправлен на номер",
+    "codeInvalid": "Код неверный",
+    "resendCode": "Отправить код повторно",
+    "resendCodeAfter": "Повторная отправка через",
+    "checkCodeError": "Ошибка проверки кода",
+    "next": "Далее",
+    "checking": "Проверка...",
+    "back": "Назад",
+    "role": {
+      "asCustomer": "Как заказчик",
+      "customerDescription": "Контролируйте выполнение заявок в реальном времени",
+      "asCarrier": "Как перевозчик",
+      "carrierDescription": "Получайте актуальную информацию о своих перевозках"
+    },
+    "selectRole": "Выберите, как вы хотите использовать приложение",
+    "passwordsDoNotMatch": "Пароли не совпадают",
+    "registrationFailed": "Ошибка регистрации",
+    "firstNameRequired": "Имя обязательно",
+    "lastNameRequired": "Фамилия обязательна",
+    "emailRequired": "Электронная почта обязательна",
+    "iinRequired": "ИИН обязателен",
+    "iinInvalid": "ИИН некорректен",
+    "emailInvalid": "Некорректный Email",
+    "passwordRequired": "Пароль обязателен",
+    "register": "Зарегистрироваться"
+  }
+}

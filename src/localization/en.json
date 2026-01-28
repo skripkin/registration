@@ -1,0 +1,77 @@
+{
+  "welcome": "Welcome to the business personal account!",
+  "save": "Save",
+  "login": {
+    "title": "Login to your account",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "error": "Invalid email or password",
+    "loading": "Signing in...",
+    "noAccount": "No account?",
+    "register": "Register",
+    "emailInvalid": "Invalid Email",
+    "passwordRequired": "Password is required",
+    "emailRequired": "Email is required"
+  },
+  "sidebar": {
+    "directories": "Management",
+    "information": "Directories",
+    "element1": "Element 1",
+    "element2": "Element 2",
+    "element3": "Element 3",
+    "managers": "Managers"
+  },
+  "links": {
+    "issues": "Issues",
+    "active": "Active",
+    "archive": "Archived",
+    "counterparties": "Counterparties",
+    "customers": "Customers",
+    "transporters": "Transporters",
+    "fleet": "Fleet"
+  },
+  "header": {
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "registration": {
+    "title": "Registration",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "patronymic": "Patronymic",
+    "email": "Email",
+    "password": "Password",
+    "iin": "IIN",
+    "phone": "Phone Number",
+    "verifyCode": "Enter the code from SMS",
+    "backToPhone": "Back to phone number",
+    "agreeWithTerms": "I agree to the terms and conditions",
+    "phoneSendedInfo": "To log in to your account, enter your phone number, an SMS with a verification code will be sent to it",
+    "checkCodeForNumber": "A verification code has been sent to the number",
+    "codeInvalid": "Code is invalid",
+    "resendCode": "Resend code",
+    "resendCodeAfter": "Resend after",
+    "checkCodeError": "Code verification error",
+    "checking": "Checking...",
+    "next": "Next",
+    "back": "Back",
+    "role": {
+      "asCustomer": "As a customer",
+      "customerDescription": "Monitor the execution of requests in real time",
+      "asCarrier": "As a carrier",
+      "carrierDescription": "Get up-to-date information about your shipments"
+    },
+    "selectRole": "Choose how you want to use the app",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "registrationFailed": "Registration error",
+    "firstNameRequired": "First name is required",
+    "lastNameRequired": "Last name is required",
+    "emailRequired": "Email is required",
+    "iinRequired": "IIN is required",
+    "iinInvalid": "Invalid IIN",
+    "emailInvalid": "Invalid Email",
+    "passwordRequired": "Password is required",
+    "register": "Register"
+  }
+}
